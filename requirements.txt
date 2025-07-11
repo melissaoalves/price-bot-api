@@ -4,3 +4,6 @@ selenium
 pandas
 pydantic
 python-dotenv
+webdriver-manager
+selenium-stealth
+undetected-chromedriver

@@ -49,5 +49,5 @@ pip install -r requirements.txt
 ```bash
 uvicorn app.main:app --reload
 ```
-Acesse: http://127.0.0.1:8000
+Acesse: http://127.0.0.1:8000 
 Swagger (docs da API): http://127.0.0.1:8000/docs
